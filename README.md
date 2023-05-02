@@ -1,4 +1,4 @@
-# game-of-life
+# Conway's game of life in Javascript
 Messy 2d array and dynamic implementation.
 
 Controls:
